@@ -19,5 +19,6 @@ $ java CSVCombine [Input Filepath One] [Input Filepath Two] [Input FilePath n...
 * Output FileName: "outputname.csv"
 * Up to N input files allowed
 * Only one output file allowed 
+* !The last argument passed will be the output file!
 
 <img src="ScreenGifs/FirstTime.gif" alt="compiling code">
