@@ -21,4 +21,12 @@ $ java CSVCombine [Input Filepath One] [Input Filepath Two] [Input FilePath n...
 * Only one output file allowed 
 * !The last argument passed will be the output file!
 
-<img src="ScreenGifs/FirstTime.gif" alt="compiling code">
+## Example
+```
+$ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
+```
+* Will be prompted with a confirmation window displaying the input files and output file
+  * enter 'y' to proceed 
+  * enter 'n' to cancel
+
+<img src="pictures/confirmation.PNG" alt="confirmation page">
