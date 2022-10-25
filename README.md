@@ -34,7 +34,7 @@ $ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
  <img src="pictures/Processing.PNG" alt="processing page">
  
  ## Result
- Ten lines from output.csv
+ Four lines from output.csv
  
  email_hash  | category | filename
 ------------- | ------------- | -------------
