@@ -28,5 +28,7 @@ $ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
 * Will be prompted with a confirmation window displaying the input files and output file
   * enter 'y' to proceed 
   * enter 'n' to cancel
+  <img src="pictures/confirmation.PNG" alt="confirmation page">
 
-<img src="pictures/confirmation.PNG" alt="confirmation page">
+* After Entering ‘y’
+ <img src="pictures/.PNG" alt="confirmation page">
