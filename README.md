@@ -8,4 +8,4 @@ Compile with javac version 13.0.1+
 $ javac CSVCombine.java
 ```
 
-<img src="ScreenRecordings/FirstTime.gif" alt="compiling code">
+<img src="ScreenGifs/FirstTime.gif" alt="compiling code">
