@@ -32,3 +32,11 @@ $ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
 
 * After Entering ‘y’
  <img src="pictures/Processing.PNG" alt="processing page">
+ 
+ ## Result
+ Ten lines from output.csv
+ 
+ First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
