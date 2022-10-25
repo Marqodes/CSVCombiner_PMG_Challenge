@@ -31,4 +31,4 @@ $ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
   <img src="pictures/confirmation.PNG" alt="confirmation page">
 
 * After Entering ‘y’
- <img src="pictures/.PNG" alt="confirmation page">
+ <img src="pictures/Processing.PNG" alt="processing page">
