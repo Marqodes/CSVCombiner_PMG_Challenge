@@ -36,7 +36,7 @@ $ java CSVCombine ./fixtures/accessories.csv ./fixtures/clothing.csv output.csv
  ## Result
  Ten lines from output.csv
  
- First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+ email_hash  | category | filename
+------------- | ------------- | -------------
+Content Cell  | Content Cell  |
+Content Cell  | Content Cell  |
